@@ -1,31 +1,56 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="https://github.com/Adalid32Lopez/Adalid32Lopez/blob/main/bg_2.jpeg?raw=true" alt="Banner" />
+</p>
+
+# Hi, I'm Adalid
+
+<code>Backend & systems-focused developer</code>
+
+---
+
+### 🔥 My Streak
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=90EE90&text=SYSTEM_ONLINE&height=100&fontSize=70&fontAlign=50" alt="System Header" />
-  <br/>
-  <code>Arch Linux Kernel • Systems Engineering • Clean Architecture</code>
+  <img src="https://streak-stats.demolab.com?user=Adalid32Lopez&theme=tokyonight&hide_border=true&date_format=j%20M%5B%2C%20Y%5D&background=0d1117&ring=90EE90&fire=90EE90&currStreakLabel=90EE90" alt="GitHub Streak" />
 </div>
 
-<br/>
+---
 
-### 1.0 /root/user_info.sh
-> _Executing initialization sequence..._
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adalid32Lopez&theme=tokyonight&show_icons=true">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Adalid32Lopez&theme=default&show_icons=true">
+</picture>
+---
 
-```bash
-#!/bin/bash
-# ABOUT ME CONFIGURATION
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adalid32Lopez&bg_color=0d1117&color=90EE90&line=90EE90&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-CURRENT_USER="ArchUser"
-OS="Arch Linux (btw)"
-PASSION=("Backend" "Systems" "Security")
-GOAL="Mastering Clean Code & Advanced Thinking"
+## About me
+- Arch Linux user
+- Focused on backend development, systems and clean architecture
+- Interested in security, automation and real-world software
+- I value clarity, discipline and finishing what I start
 
-echo "Welcome to my profile. I build systems that scale."
-Core Runtime,System Tools,Shell / Scripting
-"<img src=""https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,python%26theme%3Ddark"" width=""90"" />","<img src=""https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,linux%26theme%3Ddark"" width=""90"" />","<img src=""https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dbash,html,css%26theme%3Ddark"" width=""130"" />"
+---
 
-+ ACTIVE TASKS
-! [PRIORITY] Building useful, real-world projects
-! [PRIORITY] Improving code quality and architecture
+## Current focus
+- Writing cleaner and more maintainable code
+- Designing small but complete projects
+- Improving Git usage, commit quality and project structure
 
-- BACKGROUND TASKS
-# Learning advanced design patterns
-# Refining HTML/CSS (Basic UI Layer)
+---
+
+## Tech stack
+- **Languages:** Python, Java  
+- **Tools:** Git, Bash, Linux  
+- **Basics:** HTML, CSS  
+
+---
+
+## Selected projects
+Pinned repositories below represent my current best work.
+
+---
+
+## Philosophy
+> Clear thinking produces clean code.

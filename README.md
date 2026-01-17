@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ricardo 👋
 
-<!--
-**Adalid32Lopez/Adalid32Lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Arch Linux user
+- Interested in backend, systems, security
+- Learning clean code and advanced programming thinking
 
-Here are some ideas to get you started:
+## Tech stack
+- Python, Java
+- Git, Linux, Bash
+- HTML/CSS (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- Building useful, real-world projects
+- Improving code quality and architecture
+
+## Contact
+- GitHub Issues
+- (Opcional) LinkedIn / email profesional

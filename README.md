@@ -7,10 +7,33 @@
   <code>Backend & Systems-focused Developer</code>
   <br/><br/>
   
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br/>
+<h3 align="center">🛠️ Technologies & Tools</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><b>Languages</b></td>
+    <td align="center" width="33%"><b>Frameworks & DB</b></td>
+    <td align="center" width="33%"><b>Systems & Ops</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,cpp,php,rust,js&theme=dark&perline=3" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgres&theme=dark&perline=3" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+         <img src="https://skillicons.dev/icons?i=arch,bash,docker,git&theme=dark&perline=3" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br/>
 </div>
 
 ---
@@ -29,7 +52,7 @@
 <br/>
 ---
 
-### 👨‍💻 About Me & Focus
+### About Me & Focus
 
 <table>
   <tr>
@@ -38,7 +61,7 @@
       <ul>
         <li>🐧 <b>Arch Linux</b> user</li>
         <li>⚙️ Focused on <b>backend</b>, systems & clean arch</li>
-        <li>🛡️ Interested in security & automation</li>
+        <li>🛡️ Interested in security</li>
         <li>🎯 I value clarity & discipline</li>
       </ul>
     </td>

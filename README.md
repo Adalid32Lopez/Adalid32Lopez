@@ -59,7 +59,7 @@
     <td valign="top" width="50%">
       <h3>💡 About me</h3>
       <ul>
-        <li>🐧 <b>Arch Linux</b> user</li>
+        <li>🐧 <b>Linux/Systems</b> Enthusiast (Arch)</li>
         <li>⚙️ Focused on <b>backend</b>, systems & clean arch</li>
         <li>🛡️ Interested in security</li>
         <li>🎯 I value clarity & discipline</li>

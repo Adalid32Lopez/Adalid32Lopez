@@ -28,7 +28,7 @@
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-         <img src="https://skillicons.dev/icons?i=arch,bash,docker,git&theme=dark&perline=3" />
+         <img src="https://skillicons.dev/icons?i=arch,bash,docker,git,neovim&theme=dark&perline=3" />
       </a>
     </td>
   </tr>
@@ -50,6 +50,7 @@
 </div>
 
 <br/>
+
 ---
 
 ### About Me & Focus
